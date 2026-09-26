@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "minecraft:block/yellow_wool" },
+    "facing=east":  { "model": "minecraft:block/yellow_wool", "y": 90 },
+    "facing=south": { "model": "minecraft:block/yellow_wool", "y": 180 },
+    "facing=west":  { "model": "minecraft:block/yellow_wool", "y": 270 }
+  }
+}
